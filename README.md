@@ -4,7 +4,7 @@ Worked in a group of 3 members to develop C/C++ programs to optimally solve puzz
 
 * Tic-Tac-Toe
 * Up-it-up
-* Rubik's cube
+* 2*2 Rubik's cube
 * Sim
 * Connect4
 * Sudoku
